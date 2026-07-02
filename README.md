@@ -2,7 +2,7 @@
 
 ### Software Test Engineer | Manual Testing | Selenium | Robot Framework | API Testing
 
-I am a Software Test Engineer with 4+ years of experience in the Telecommunications and Networking domain. Currently working at Amdocs, specializing in Manual Testing, Test Automation, API Testing, Regression Testing, and Agile methodologies. Passionate about improving software quality through efficient testing frameworks and innovative automation solutions.  【1-e0e574】
+I am a Software Test Engineer with 4+ years of experience in the Telecommunications and Networking domain. Currently working at Amdocs, specializing in Manual Testing, Test Automation, API Testing, Regression Testing, and Agile methodologies. Passionate about improving software quality through efficient testing frameworks and innovative automation solutions.  
 
 ---
 
@@ -62,7 +62,7 @@ I am a Software Test Engineer with 4+ years of experience in the Telecommunicati
 - Conducted API validation using Postman and SoapUI.
 - Experienced in defect lifecycle management using JIRA, ALM, Octane, and I-Track.
 - Worked closely with Finland-based clients to deliver high-quality testing solutions.
-- Leveraging AI tools such as Microsoft Copilot and Cursor IDE to improve testing productivity.  【1-e0e574】
+- Leveraging AI tools such as Microsoft Copilot and Cursor IDE to improve testing productivity.  
 
 ---
 
@@ -74,7 +74,7 @@ I am a Software Test Engineer with 4+ years of experience in the Telecommunicati
 - Functional, Regression, Smoke, and Progression Testing.
 - API Testing using Postman and SoapUI.
 - Defect reporting and validation using I-Track.
-- Ensured high-quality releases through extensive validation.  【1-e0e574】
+- Ensured high-quality releases through extensive validation.  
 
 ### PLDT
 **Apr 2023 – Oct 2023**
@@ -82,7 +82,7 @@ I am a Software Test Engineer with 4+ years of experience in the Telecommunicati
 - End-to-End Testing of Telecom Service Orders.
 - UI and API validation using CSP and FUSE APIs.
 - Defect tracking and test management using ALM.
-- Participated actively in Agile Scrum ceremonies.  【1-e0e574】
+- Participated actively in Agile Scrum ceremonies.  
 
 ### Comcast
 **Jan 2022 – Mar 2023**
@@ -90,21 +90,21 @@ I am a Software Test Engineer with 4+ years of experience in the Telecommunicati
 - Executed Sanity, Regression, and Progression Testing.
 - Worked with CRM, CPQ, and OSO applications.
 - Defect management through Octane.
-- Participated in sprint planning and daily Scrum activities.  【1-e0e574】
+- Participated in sprint planning and daily Scrum activities.  
 
 ---
 
 ## 🏆 Achievements
 
 - 🏅 Key Player Award for Project Transition Contributions (2024)
-- 🌟 Client Appreciation for On-Time Delivery and High-Quality Deliverables (2025)  【1-e0e574】
+- 🌟 Client Appreciation for On-Time Delivery and High-Quality Deliverables (2025)  
 
 ---
 
 ## 📜 Certifications
 
 - Software Testing Certification – QSpiders
-- Robot Framework Certification (Udemy)  【1-e0e574】
+- Robot Framework Certification (Udemy)  
 
 ---
 
@@ -112,7 +112,7 @@ I am a Software Test Engineer with 4+ years of experience in the Telecommunicati
 
 **Bachelor of Technology**  
 UCET, MG University  
-CGPA: 7.47/10  【1-e0e574】
+CGPA: 7.47/10  
 
 ---
 
