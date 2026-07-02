@@ -2,129 +2,65 @@
 
 ### Software Test Engineer | Manual Testing | Selenium | Robot Framework | API Testing
 
-I am a Software Test Engineer with 4+ years of experience in the Telecommunications and Networking domain. Currently working at Amdocs, specializing in Manual Testing, Test Automation, API Testing, Regression Testing, and Agile methodologies. Passionate about improving software quality through efficient testing frameworks and innovative automation solutions.  
+I am a Software Test Engineer with 4+ years of experience in Telecommunications and Networking. Currently working at Amdocs, specializing in Manual Testing, Automation Testing, API Testing, Regression Testing, and Agile methodologies. Passionate about delivering high-quality software solutions through effective testing practices. 
 
 ---
 
-## 🔧 Skills & Technologies
+## 🛠 Skills & Technologies
 
-### Testing & Automation
-- Selenium WebDriver
-- Robot Framework
-- Manual Testing
-- Regression Testing
-- Smoke Testing
-- Progression Testing
-- Functional Testing
-
-### Programming
-- Core Java
-- Python (Basics)
-- SQL
-
-### API Testing
-- Postman
-- SoapUI
-
-### Tools & Platforms
-- Git
-- GitHub
-- Jenkins
-- JIRA
-- ALM/QC
-- Octane
-- I-Track
-
-### CRM & Telecom Applications
-- Salesforce CRM
-- Amdocs CRM
-- Billing Testing
-- Usage/Event Processing
-- Telecom OSS/BSS Applications
-
-### Methodologies
-- Agile
-- Scrum
-- SDLC
-- STLC
+- **Automation:** Selenium WebDriver, Robot Framework
+- **Programming:** Core Java, Python (Basics), SQL
+- **API Testing:** Postman, SoapUI
+- **Tools:** Git, GitHub, Jenkins, Jira, Octane, ALM, I-Track
+- **Applications:** Salesforce CRM, Amdocs CRM
+- **Methodologies:** Agile, Scrum, SDLC, STLC
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Professional Highlights
 
-### Software Test Engineer | Amdocs
-**January 2022 - Present**
-
-- 4+ years of experience in Manual and Automation Testing.
-- Expertise in Functional, Regression, Smoke, and API Testing.
-- Hands-on experience with Selenium WebDriver and Robot Framework.
-- Performed Salesforce CRM testing covering order management and customer lifecycle flows.
-- Conducted API validation using Postman and SoapUI.
-- Experienced in defect lifecycle management using JIRA, ALM, Octane, and I-Track.
-- Worked closely with Finland-based clients to deliver high-quality testing solutions.
-- Leveraging AI tools such as Microsoft Copilot and Cursor IDE to improve testing productivity.  
+- ✅ 4+ years of experience in Software Testing and Quality Assurance. 
+- ✅ Hands-on experience in Functional, Regression, Smoke, and Progression Testing. 
+- ✅ Experience in API Testing using Postman and SoapUI. 
+- ✅ Worked extensively on Salesforce CRM and Telecom Billing applications. 
+- ✅ Experienced in defect management using Jira, ALM, Octane, and I-Track. 
+- ✅ Leveraging AI tools like GitHub Copilot and Cursor IDE to improve testing productivity. 
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
-### AT&T (BSSE)
-**Nov 2023 – Present**
+### 1. AT&T (BSSE)
+- Functional, Regression, Smoke, and API Testing.
+- Validation of telecom workflows and business scenarios.
+- Defect tracking using I-Track. 
 
-- Functional, Regression, Smoke, and Progression Testing.
-- API Testing using Postman and SoapUI.
-- Defect reporting and validation using I-Track.
-- Ensured high-quality releases through extensive validation.  
+### 2. PLDT
+- End-to-End testing of Service Orders.
+- UI & API validation using CSP and FUSE APIs.
+- Test management using ALM. 
 
-### PLDT
-**Apr 2023 – Oct 2023**
-
-- End-to-End Testing of Telecom Service Orders.
-- UI and API validation using CSP and FUSE APIs.
-- Defect tracking and test management using ALM.
-- Participated actively in Agile Scrum ceremonies.  
-
-### Comcast
-**Jan 2022 – Mar 2023**
-
-- Executed Sanity, Regression, and Progression Testing.
-- Worked with CRM, CPQ, and OSO applications.
-- Defect management through Octane.
-- Participated in sprint planning and daily Scrum activities.  
+### 3. Comcast
+- Regression and Progression Testing.
+- CRM, CPQ, and OSO application testing.
+- Defect management using Octane. 
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- 🏅 Key Player Award for Project Transition Contributions (2024)
-- 🌟 Client Appreciation for On-Time Delivery and High-Quality Deliverables (2025)  
-
----
-
-## 📜 Certifications
-
-- Software Testing Certification – QSpiders
-- Robot Framework Certification (Udemy)  
+- 🥇 Key Player Award – Project Transition Contribution (2024) 
+- 🌟 Client Appreciation – On-Time Delivery & Quality (2025) 
+- 📜 Software Testing Certification – QSpiders 
+- 📜 Robot Framework Certification – Udemy 
 
 ---
 
-## 🎓 Education
+## 📫 Let's Connect
 
-**Bachelor of Technology**  
-UCET, MG University  
-CGPA: 7.47/10  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: anupamam2212000@gmail.com
-
-🔗 LinkedIn:  
-https://www.linkedin.com/in/anupama-macharla-548998219/
-
-📱 Contact: +91 6305616622
+- 🔗 LinkedIn: www.linkedin.com/in/anupama-macharla-548998219
+- 📧 Email: anupamam2212000@gmail.com
+- 📱 Mobile: +91 6305616622
 
 ---
-
-⭐ "Quality is never an accident; it is always the result of intelligent effort."
+⭐ *Ensuring quality through continuous testing, automation, and learning.*
